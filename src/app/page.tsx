@@ -109,7 +109,7 @@ export default function Home() {
       <footer className="bg-gray-900 text-gray-300 border-t border-gray-800 mt-12">
         <div className="max-w-6xl mx-auto px-4 py-8 text-center">
           <p className="text-sm">Built with Next.js, React, and OpenAI · Powered by OMDB API and IMDb</p>
-          <p className="text-xs text-gray-500 mt-2">Contact: abhay@brew.tv</p>
+          <p className="text-xs text-gray-500 mt-2">Contact: Prince Sahgal</p>
         </div>
       </footer>
 
