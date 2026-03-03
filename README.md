@@ -159,6 +159,4 @@ Response:
 
 MIT
 
-## Contact
 
-For questions or support: abhay@brew.tv

@@ -170,12 +170,3 @@ src/
     └── utils.ts            # Helper functions
 ```
 
-## Next Steps
-
-- ✅ Install dependencies
-- ✅ Add API keys
-- ✅ Run dev server
-- ✅ Test with movie IDs
-- ✅ Deploy to Vercel
-
-Need help? Contact: abhay@brew.tv
