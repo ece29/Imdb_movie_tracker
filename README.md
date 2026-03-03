@@ -155,10 +155,4 @@ Response:
 - Implement user ratings and comments
 - Add advanced filters (genre, year, rating)
 
-## License
 
-MIT
-
-## Contact
-
-For questions or support: abhay@brew.tv
