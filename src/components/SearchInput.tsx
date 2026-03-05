@@ -39,8 +39,8 @@ export default function SearchInput({
             disabled={isLoading}
             className={`w-full px-4 py-3 border-2 rounded-lg transition-all ${
               error
-                ? 'border-red-500 bg-red-50 focus:outline-none focus:ring-2 focus:ring-red-300'
-                : 'border-gray-300 bg-white focus:outline-none focus:ring-2 focus:ring-blue-300'
+                ?  'border-gray-300 bg-white text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-300'
+                :  'border-gray-300 bg-white text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-red-300'
             } ${isLoading ? 'opacity-50 cursor-not-allowed' : ''}`}
           />
         </div>
